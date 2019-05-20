@@ -1,0 +1,5 @@
+com\segmentfault\spring\cloud\lesson10\user\ribbon\client\hystrix\UserRibbonClientHystrixCommand.class
+com\segmentfault\spring\cloud\lesson10\user\ribbon\client\UserRibbonClientApplication.class
+com\segmentfault\spring\cloud\lesson10\user\ribbon\client\rule\MyRule.class
+com\segmentfault\spring\cloud\lesson10\user\ribbon\client\ping\MyPing.class
+com\segmentfault\spring\cloud\lesson10\user\ribbon\client\web\controller\UserRibbonController.class

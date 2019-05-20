@@ -1,0 +1,3 @@
+com\segmentfault\spring\cloud\lesson10\web\controller\UserServiceProviderController.class
+com\segmentfault\spring\cloud\lesson10\UserServiceProviderApplication.class
+com\segmentfault\spring\cloud\lesson10\service\InMemoryUserService.class

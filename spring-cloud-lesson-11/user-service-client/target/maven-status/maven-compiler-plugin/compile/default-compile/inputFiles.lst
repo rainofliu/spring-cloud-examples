@@ -1,0 +1,5 @@
+E:\eclipse projects\Spring Cloud Lesson SegmentFault\spring-cloud-lesson-10\user-service-client\src\main\java\com\segmentfault\spring\cloud\lesson10\user\ribbon\client\ping\MyPing.java
+E:\eclipse projects\Spring Cloud Lesson SegmentFault\spring-cloud-lesson-10\user-service-client\src\main\java\com\segmentfault\spring\cloud\lesson10\user\ribbon\client\web\controller\UserRibbonController.java
+E:\eclipse projects\Spring Cloud Lesson SegmentFault\spring-cloud-lesson-10\user-service-client\src\main\java\com\segmentfault\spring\cloud\lesson10\user\ribbon\client\rule\MyRule.java
+E:\eclipse projects\Spring Cloud Lesson SegmentFault\spring-cloud-lesson-10\user-service-client\src\main\java\com\segmentfault\spring\cloud\lesson10\user\ribbon\client\UserRibbonClientApplication.java
+E:\eclipse projects\Spring Cloud Lesson SegmentFault\spring-cloud-lesson-10\user-service-client\src\main\java\com\segmentfault\spring\cloud\lesson10\user\ribbon\client\hystrix\UserRibbonClientHystrixCommand.java
